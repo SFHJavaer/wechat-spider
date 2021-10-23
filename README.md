@@ -1,5 +1,6 @@
-###sougou_wechat_crawler
 基于Selenium WebDriver搜狗微信公众号爬虫  
+
+
 
 主要功能是根据输入的关键词爬取最新的文章，包括标题，简介，作者，上传时间等内容。  
 

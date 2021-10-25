@@ -75,3 +75,4 @@ def page_text():
                 break
         except Exception as e:
             break
+            

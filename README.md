@@ -26,7 +26,7 @@
 
 ###### 使用：keyword 修改搜索关键词，修改关键词运行即可。
 
-                                                    详情请查看程序代码注释
+##### 详情请查看程序代码注释
 
 
 Chromedriver下载网址：http://chromedriver.storage.googleapis.com/index.html
